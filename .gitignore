@@ -1,0 +1,8 @@
+cat << 'EOF' > .gitignore
+sync_process
+counter.txt
+*.o
+*.swp
+*~
+.DS_Store
+EOF
